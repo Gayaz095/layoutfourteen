@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tomato",
+    "quantity": "1 Kg",
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+  },
+  {
+    "name": "Cabbage",
+    "quantity": "1 Kg",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56"
+  },
+  {
+    "name": "Eggplant",
+    "quantity": "1 Kg",
+    "price": 18,
+    "image": "https://t3.ftcdn.net/jpg/06/94/35/64/240_F_694356452_YT9JqDe5V2oD875EGlqqyPDl2zQBYgSL.jpg"
+  },
+  {
+    "name": "Green Chilli",
+    "quantity": "1 Kg",
+    "price": 25,
+    "image": "https://as1.ftcdn.net/v2/jpg/15/66/91/38/1000_F_1566913838_JxWLJRcw6zctosiKPZjC2MSi4BwaWEnd.jpg"
+  },
+  {
+    "name": "Bottle Gourd",
+    "quantity": "1 Kg",
+    "price": 12,
+    "image": "https://as2.ftcdn.net/v2/jpg/02/66/68/37/1000_F_266683754_wzx9XxeNXKudct2Q3qwQf1PvVaQaKOf6.jpg"
+  },
+  {
+    "name": "Potato",
+    "quantity": "1 Kg",
+    "price": 10,
+    "image": "https://as2.ftcdn.net/v2/jpg/15/95/68/53/1000_F_1595685317_svaj1mOAwkd7uPStxBgTF6MiHtMYaaLZ.jpg"
+  },
+  {
+    "name": "Potato",
+    "quantity": "1 Kg",
+    "price": 10,
+    "image": "https://as2.ftcdn.net/v2/jpg/15/95/68/53/1000_F_1595685317_svaj1mOAwkd7uPStxBgTF6MiHtMYaaLZ.jpg"
+  }
+]
