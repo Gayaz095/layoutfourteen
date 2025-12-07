@@ -1,0 +1,3 @@
+[build]
+  command = "vite build && node backend/server.js"
+  publish = "build"
