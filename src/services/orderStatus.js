@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.REACT_APP_BASE_URL || "http://localhost:3001/api";
+  import.meta.env.VITE_APP_BASE_URL || "http://localhost:3001/api";
 
 export const orderAPI = {
   getOrders: async () => {
